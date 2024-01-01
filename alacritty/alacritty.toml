@@ -1,0 +1,7 @@
+import = []
+
+[shell]
+program = "/home/kdomasze/.nix-profile/bin/zsh"
+
+[font]
+normal = { family = "FiraCode Nerd Font Propo", style = "Regular" }
