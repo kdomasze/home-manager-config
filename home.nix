@@ -67,6 +67,8 @@
     ".oh-my-zsh/custom/init.zsh".source = oh-my-zsh/custom/init.zsh;
     ".oh-my-zsh/custom/aliases.zsh".source = oh-my-zsh/custom/aliases.zsh;
     ".config/Code/User/settings.json".source = vscode/settings.json;
+    ".config/OpenRGB/Rainbow Barf.orp".source = openRGB/RainbowBarf.orp;
+    ".config/OpenRGB/sizes.ors".source = openRGB/sizes.ors;
 
     # # You can also set the file content immediately.
     # ".gradle/gradle.properties".text = ''
